@@ -183,7 +183,7 @@
   justify-content: center;
   gap: 40px;
   padding: 80px 60px;
-  background:     #e0c0b9
+  background:     #f1efee
 ;
 }
 
@@ -194,7 +194,7 @@
 }
 
 .feature-icon {
-  background-color:     #e0c0b9;
+  background-color:      #f1efee;
   color: #3ba9d5;
   width: 60px;
   height: 60px;
@@ -222,7 +222,7 @@
 .prediction {
   padding: 70px 20px;
   text-align: center;
-  background:     #e0c0b9;
+  background:     #f1efee;
 }
 
 .prediction h2 {
